@@ -1,0 +1,22 @@
+zrobic opcje gui exportowania zaszyfrowanego zestawy plikow
+
+polaczyc funkcje dodawania i usuwania folderow. usuwane maja byc foldery bez zawartosci, a jesli maja, przenoszone sa do unsorted. foldery te jednak musza byc usuwane tak, zeby to nie wplywala na jednolitosc czy strukture plikow juz obecnych w hierarchii
+
+zrobic program automatycznie aktualizujący repo ZA WARUDO zdalne. 
+najlepiej, by bylo wysylane zaszyfrowane, poprzez program na kompie, ktory nie jest wysylany/jest w gitignore
+
+dodac do programu encryption wstawianie dodatkowych znakow do hasla z wyznaczonych wczesniej  wprogramie, moze z gotowych ciągów znaków np. 000, aaa, oraz ueifanoevfrj
+
+excel wydatków
+obsydian pracy todo projektu
+skopiowac instalatory podstawowe do template
+
+
+Sortowanie:
+- Atomic - funkcjnalność rozbita na podzespoły
+- Funkcyjne - sortowanie folderami kategoriując jako jedna funkcja
+- Domenowo - rodzaj projektu zawiera dane funkcje i tylko on
+- Warstwowo - rodzaje funkcji są rozbite
+- Slice - pełna funkcjonalność zawartości
+
+Musi byc sposob na instalowanie konkretnych wersji kompilatorow itd, szczegolnie poprzez linki do nich
